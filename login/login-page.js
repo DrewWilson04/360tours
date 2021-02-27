@@ -14,3 +14,5 @@ loginButton.addEventListener("click", (e) => {
         loginErrorMsg.style.opacity = 1;
     }
 })
+
+console.log("Haha! No password here :)")
